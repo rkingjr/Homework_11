@@ -3,13 +3,15 @@
 **Version 1.0**
 ## Description:
 
-With this application, the user should be able to enter a note, save it to memory, then delete it at a later time.
-
-Unfortunately, this application, as seen in the below Screencastify, only goes from the home page to the notes page but does not save or delete the note.
+With this application, the user will be able to enter a note, save it to a list to the left of the display, then delete it at a later time.
 
 ## Screenshot:
+
+![Screencastify of working application](./assets/Homework_11.gif)
+
 ## Deployed Application:
 
+https://rkingjr.github.io/Homework_11/
 
 ## License and Copyright:
 
